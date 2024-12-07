@@ -25,10 +25,6 @@ Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
     # If true, hidden files will be included in the artifact. If false, hidden files will be excluded from the artifact.
 
     include-hidden-files: # optional, default is false
-          
-https://github.com/Piolastoojaa/docs/actions/workflows/bearer.yml
-# This workflow file requires a free account on Bearer.com to manage findings, notifications and more.
-# See https://docs.bearer.com/guides/bearer-cloud/
 name: Piotr Laszkiewicz
 
 on:
